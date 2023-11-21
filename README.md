@@ -1,6 +1,8 @@
 # Module_11_Challenge
 
-Sungyoun Hutchison's Answers to the five questions above:
+Part 1 & Part 2 ipynb files and 1 csv file are included to complete the module 11 challenge. 
+
+Sungyoun Hutchison's Answers to the five questions of Part 2:
 
 1. 12 months exist on Mars.
 2. 1867 Martian days worth of data exist in the scraped dataset.
